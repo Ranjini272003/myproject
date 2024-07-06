@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+
+li,h1,ul{
+    display: inline;
+}
+ul{
+    margin-left: 70%;
+}
+li{
+    color: gray;
+    cursor: pointer;
+}
+li:hover{
+    color: white;
+}
+input{
+    width: 80%;
+    padding: 15px;
+}
+.searchbar{
+    padding: 50px;
+    margin-left: 13%;
+    
+}
+.events{
+    img{
+margin-left: 26%;
+    }
+    h3{
+        margin-left: 24% ;
+    }
+    
+    
+}
+.About{
+    text-align: center;
+    margin-top: 19px;
+    padding: 30px;
+}
+.Contact{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+.upcomingevents{
+    text-align: center;
+    margin-top: 19px;
+}
